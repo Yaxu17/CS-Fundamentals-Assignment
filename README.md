@@ -17,8 +17,11 @@ mini-calculator/
 │
 ├── Calculator_program.py     # Main calculator script
 ├── README.md                 # Project description and instructions
-└──.gitignore                # Git ignore rules
-
+├── .gitignore                # Git ignore rules
+└── Markdown-based Documentation
+    ├── Devlopment Process
+    ├── Future imporvement process
+    └── Project Overview
 ## Teacher notes (what I implemented)
 - Uses plain `input()` for numbers and operation choice.
 - Performs basic validation for operation choice and dividing by zero.
@@ -32,8 +35,8 @@ mini-calculator/
   - `init: add calculator program`
   - `docs: add README`
   - `chore: add .gitignore`
-  - `Updating README`
-  - `updating .gitignore`
+  - `docs: Markdown-based Documentation`
+  - `adding file in Markdown Documentation`
 
 ## Features
 
