@@ -1,0 +1,12 @@
+## 1. Project Overview
+
+This project is a simple console-based calculator created as part of an academic assignment.  
+It performs the four basic arithmetic operations:
+
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
+
+The program uses basic Python concepts such as input handling, conditional statements, and simple arithmetic operations.  
+It is intentionally kept clean, minimal, and beginner-friendly to match assignment expectations.
