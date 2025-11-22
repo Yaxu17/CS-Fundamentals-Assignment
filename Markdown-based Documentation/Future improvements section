@@ -1,0 +1,11 @@
+## 3. Future Improvements
+
+These are optional features that could be added later:
+
+- Add support for more operations (square root, power, modulus).
+- Create a loop to perform multiple calculations without restarting the program.
+- Convert the program into a GUI version using Tkinter.
+- Add error logging or debugging messages.
+- Create separate functions for each operation.
+- Add unit tests for reliability.
+- Allow the calculator to handle expressions (e.g., “3 + 5 * 2”).
