@@ -25,10 +25,12 @@ mini-calculator/
 - No functions or advanced concepts.
 
 ## Submission checklist
-- [ ] `Calculator_program.py` present and runs without syntax errors.
-- [ ] `README.md` included (this file).
-- [ ] `.gitignore` included (optional, but recommended).
-- [ ] At least 5 meaningful commits (if submitting via GitHub) — commit messages example:
+-  `Calculator_program.py` present and runs without syntax errors.
+-  `README.md` included (this file).
+-  `.gitignore` included (optional, but recommended).
+-  At least 5 meaningful commits (if submitting via GitHub) — commit messages example:
   - `init: add calculator program`
   - `docs: add README`
   - `chore: add .gitignore`
+  - `Updating README`
+  - `updating .gitignore`
