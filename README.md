@@ -34,3 +34,24 @@ mini-calculator/
   - `chore: add .gitignore`
   - `Updating README`
   - `updating .gitignore`
+
+## Features
+
+- Takes two numbers as input from the user.
+- Provides a simple menu to choose an operation (Addition, Subtraction, Multiplication, Division).
+- Performs the selected arithmetic operation.
+- Displays the result clearly in a readable format.
+- Handles invalid menu choices by showing an error message.
+- Checks for division by zero and prevents the error.
+- Uses basic Python concepts suitable for beginner-level assignments.
+- Straightforward, clean, and easy-to-understand code structure.
+
+## Output Screenshots
+
+<img width="287" height="242" alt="Screenshot 2025-11-22 234644" src="https://github.com/user-attachments/assets/d8a51260-e1d9-4b64-a561-2296468de5a0" />
+
+<img width="286" height="242" alt="Screenshot 2025-11-22 234702" src="https://github.com/user-attachments/assets/33cb6062-fb21-402b-9f5a-41f0883b68d7" />
+
+<img width="281" height="241" alt="Screenshot 2025-11-22 234710" src="https://github.com/user-attachments/assets/d5964e00-86fa-4063-855e-cf9460a07db4" />
+
+<img width="372" height="239" alt="Screenshot 2025-11-22 234726" src="https://github.com/user-attachments/assets/22ee352e-55b2-4778-8982-fdde7b42caa8" />
