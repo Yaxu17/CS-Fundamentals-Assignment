@@ -1,0 +1,22 @@
+## 2. Development Process
+
+### Step 1 — Understanding the Assignment  
+The goal was to create a simple calculator using Python with clear input/output formatting and no advanced features.
+
+### Step 2 — Writing the Base Code  
+- Started by taking two numeric inputs from the user.  
+- Displayed a simple menu to choose the operation.  
+- Used `if-elif` statements to perform the chosen operation.
+
+### Step 3 — Adding Basic Validation  
+- Ensured only valid menu choices (1–4) are accepted.  
+- Added a check for division by zero.
+
+### Step 4 — Cleaning and Finalizing  
+- Removed unnecessary complexity.  
+- Ensured the code is formatted simply and clearly.  
+- Prepared README, `.gitignore`, and a proper folder structure.
+
+### Step 5 — Documentation  
+- Added Markdown-based documentation in a separate `docs/` folder.  
+- Explained project overview, development steps, and future improvements.
